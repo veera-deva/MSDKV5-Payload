@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="megaphone_index_array">
+        <item>PORTSIDE</item>
+        <item>STARBOARD</item>
+        <item>UPSIDE</item>
+        <item>OSDK</item>
+        <item>PORT_1</item>
+        <item>PORT_2</item>
+        <item>PORT_3</item>
+        <item>PORT_4</item>
+    </string-array>
+</resources>

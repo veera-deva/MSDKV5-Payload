@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Speaker Payload</string>
+
+    <!-- Speaker / Megaphone panel -->
+    <string name="title_megaphone">Megaphone</string>
+    <string name="megaphone_state">Megaphone State</string>
+    <string name="megaphone_control">Megaphone Control</string>
+    <string name="megaphone_index">Megaphone Index</string>
+    <string name="cur_volume_value">current volume:</string>
+    <string name="rt_transmission_status">Upload Status</string>
+
+    <!-- Record screen -->
+    <string name="record_btn_title">Click To Start Record</string>
+    <string name="quick_play">Auto-play when upload completes</string>
+</resources>
